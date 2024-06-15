@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 Inspired in alsiam's readme repository
  -->
@@ -12,7 +10,7 @@ Inspired in alsiam's readme repository
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hey There!, My name is
                 <b>Ivan</a></b>
         </samp>
 </h3>
@@ -20,8 +18,6 @@ Inspired in alsiam's readme repository
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    <br>
     「 I am a computer science student passionate about <b>cybersecurity</b> 」
     <br>
     <br>
