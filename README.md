@@ -10,7 +10,7 @@ Inspired in alsiam's readme repository
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; std::cout << "Welcome to my Profile!\n";
+        <samp>std::cout << "Welcome to my Profile!\n";
         </samp>
 </h3>
 
