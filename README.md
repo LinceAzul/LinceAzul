@@ -10,15 +10,14 @@ Inspired in alsiam's readme repository
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, My name is
-                <b>Ivan</a></b>
+        <samp>&gt; std::cout << "Welcome to my Profile!\n";
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    「 I am a computer science student passionate about <b>cybersecurity</b> 」
+    「 I am a Computer Science student passionate about <b>cybersecurity</b> 」
     <br>
     <br>
   </samp>
@@ -39,7 +38,7 @@ Inspired in alsiam's readme repository
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
 ✌️    Passionate about diving deep into research and hands-on problem solving. <br/><br/>
-❤️    Avid sports enthusiast with years of experience in gymnastics and acrobatics. <br/><br/>
+❤️    Avid sports fanatic with years of experience in gymnastics and acrobatics. <br/><br/>
 🔒    Enthusiast of offensive cybersecurity, always exploring the latest in security tech. <br/><br/>
 💬    Extroverted tech lover, always excited to chat—ask me anything!
 
