@@ -68,13 +68,13 @@ Inspired in alsiam's readme repository
      <img src="https://img.shields.io/badge/Cyber%20Threat%20Management%20-Enisa-%2300A3E0" alt="ENISA Cyber threat Cert">
   </a><br>
   <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Network%20Ethical%20Hacking%20with%20Kali-Udemy-%239C27B0 alt="Network Ethical Hacking cert">
+     <img src="https://img.shields.io/badge/Network%20Ethical%20Hacking%20with%20Kali%20-Udemy-%239C27B0 alt="Network Ethical Hacking cert">
   </a><br>
  <a href="" target="_blank">
-      <img src="https://img.shields.io/badge/Fundamentos%20De%20IA%20En%20Ciberseguridad-C1b3rWall%20Academy-%23F03C3C alt="IA & Cybersec cert">
+      <img src="https://img.shields.io/badge/Fundamentos%20De%20IA%20En%20Ciberseguridad%20-C1b3rWall%20Academy-%23F03C3C alt="IA & Cybersec cert">
    </a><br>
  <a href="" target="_blank">
-      <img src="https://img.shields.io/badge/OPSEC%20Awareness%20for%20Military%20Members,%20DOD%20Employees%20and%20Contractors-Defence%20Counterintelligence%20and%20Security%20Agency-%2300C851 alt="OPSEC Cert">
+      <img src="https://img.shields.io/badge/OPSEC%20Awareness%20for%20Military%20Members,%20DOD%20Employees%20and%20Contractors%20-Defence%20Counterintelligence%20and%20Security%20Agency-%2300C851 alt="OPSEC Cert">
    </a><br>
   <a href="" target="_blank">
       <img src="https://img.shields.io/badge/Network%20Ethical%20Hacking%20with%20Kali-Udemy-%239C27B0 alt="Network Ethical Hacking cert">
