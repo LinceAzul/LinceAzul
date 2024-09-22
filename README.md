@@ -7,20 +7,20 @@ Inspired in alsiam's readme repository
 </a>
 
 <div id="header" align="right">
-  <img src="https://komarev.com/ghpvc/?username=rorro6787&style=for-the-badge&color=006400" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=LinceAzul&style=for-the-badge&color=006400" alt=""/>
 </div>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=4000&pause=1000&color=F03F88&center=true&vCenter=true&random=false&width=435&lines=&gt+echo+-e+&quot;I+am+Rodrigo+Carreira&quot;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=4000&pause=1000&color=F03F88&center=true&vCenter=true&random=false&width=435&lines=&gt+echo+-e+&quot;I+am+Ivan+Iroslavov&quot;" alt="Typing SVG" />
     </a>
 </div>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&duration=4000&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=「+Software+%2B+AI+Engineer+」;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&duration=4000&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=「+Computer+Engineer,+Devoted+to+Cybersecurity+」;" alt="Typing SVG" />
     </a>
-</div
+</div>
 
 
 <!-- Intro  -->
