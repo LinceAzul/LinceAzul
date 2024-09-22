@@ -74,7 +74,7 @@ Inspired in alsiam's readme repository
   </a><br>
   
  <a href="" target="_blank">
-      <img src="https://img.shields.io/badge/Fundamentos%20De%20IA%20En%20Ciberseguridad%20-C1b3rWall%20Academy-%23F03C3C" alt="IA & Cybersec cert">
+      <img src="https://img.shields.io/badge/Fundamentos%20De%20IA%20En%20Ciberseguridad%20-C1b3rWall%20Academy-%22222222" alt="IA & Cybersec cert">
    </a><br>
    
  <a href="" target="_blank">
@@ -117,10 +117,7 @@ Key Attributes:
 
 <br/>
 
-
-<br/>
-
-## Some of my projects
+<h2 align="center"> Some of my projects </h2>
 ![LinceAzul's User Stats](https://github-readme-stats.vercel.app/api?username=LinceAzul&show_icons=true&theme=radical)
 
 [![Sesión de clientes](https://github-readme-stats.vercel.app/api/pin/?username=SII-Informatica-UMA&repo=ciklum-zumbtech&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SII-Informatica-UMA/ciklum-zumbtech)
@@ -133,8 +130,6 @@ Key Attributes:
 <p align="left">
   <a href="https://github.com/LinceAzul?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
-<br/>
 <hr/>
 <br/>
 
