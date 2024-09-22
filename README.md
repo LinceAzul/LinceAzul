@@ -11,22 +11,22 @@ Inspired in alsiam's readme repository
 </div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=4000&pause=1000&color=F03F88&center=true&vCenter=true&random=false&width=435&lines=&gt+echo+-e+&quot;I+am+Ivan+Iroslavov&quot;" alt="Typing SVG" />
-    </a>
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=4000&pause=1000&color=F03F88&center=true&vCenter=true&random=false&width=435&lines=&gt+echo+-e+&quot;I+am+Ivan+Iroslavov&quot;" alt="Typing SVG" />
+ </a>
 </div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&duration=4000&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=「+Computer+Engineer,+Devoted+to+Cybersecurity+」;" alt="Typing SVG" />
-    </a>
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&duration=4000&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=「+Computer+Engineer,+Devoted+to+Cybersecurity+」;" alt="Typing SVG" />
+ </a>
 </div>
 
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>std::cout << "Welcome to my Profile!\n";
-        </samp>
+ <samp>std::cout << "Welcome to my Profile!\n";
+ </samp>
 </h3>
 
 
@@ -36,8 +36,9 @@ Inspired in alsiam's readme repository
   </a>
 </p>
 
-<br />
+<br/>
 
+<h3 align="center">🛠️ Technologies used</h3>
 <div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -50,10 +51,8 @@ Inspired in alsiam's readme repository
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  <br>
-
 </div>
 
-## Technologies I've used
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
