@@ -63,7 +63,7 @@ Inspired in alsiam's readme repository
 <p align="center">
   <a href="[https://catalog-education.oracle.com/pls/certview/sharebadge?id=130721E56723A82F8CF93EE1299EB51B5C34D97EA7BE31F6A3938A7482389037](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C7CF633FE0E90F4FF5FAA7F505AC6709E5CA80851C99DE2FE4F78AE393160AF4)" target="_blank">
     <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Generative%20AI%20Certified%20Professional-Oracle-%23FF9800" alt="Certificación Oracle Professional AI Infrastructure">
-  </a>
+  </a><br>
   <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Cyber%20Threat%20Management%20-Enisa-%2300A3E0" alt="ENISA Cyber threat Cert">
   </a><br>
@@ -71,7 +71,7 @@ Inspired in alsiam's readme repository
      <img src="https://img.shields.io/badge/Network%20Ethical%20Hacking%20with%20Kali-Udemy-%239C27B0 alt="Network Ethical Hacking cert">
   </a><br>
  <a href="" target="_blank">
-      <img src="https://img.shields.io/badge/Fundamentos%20De%20IA%20En%20Ciberseguridad-C1b3rWall Academy-%23F03C3C alt="IA & Cybersec cert">
+      <img src="https://img.shields.io/badge/Fundamentos%20De%20IA%20En%20Ciberseguridad-C1b3rWall%20Academy-%23F03C3C alt="IA & Cybersec cert">
    </a><br>
  <a href="" target="_blank">
       <img src="https://img.shields.io/badge/OPSEC%20Awareness%20for%20Military%20Members,%20DOD%20Employees%20and%20Contractors-Defence%20Counterintelligence%20and%20Security%20Agency-%2300C851 alt="OPSEC Cert">
@@ -83,10 +83,8 @@ Inspired in alsiam's readme repository
       <img src="https://img.shields.io/badge/Network%20Ethical%20Hacking%20with%20Kali-Udemy-%239C27B0 alt="Network Ethical Hacking cert">
    </a><br>
 
- 
-</p>
 
- <br>
+</p>
 
 <!-- About Section -->
 <h2 align="center">About me ☕</h2>
