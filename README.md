@@ -6,6 +6,21 @@ Inspired in alsiam's readme repository
   <img align="right" src="https://komarev.com/ghpvc/?username=LinceAzul&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+<div id="header" align="right">
+  <img src="https://komarev.com/ghpvc/?username=rorro6787&style=for-the-badge&color=006400" alt=""/>
+</div>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=4000&pause=1000&color=F03F88&center=true&vCenter=true&random=false&width=435&lines=&gt+echo+-e+&quot;I+am+Rodrigo+Carreira&quot;" alt="Typing SVG" />
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&duration=4000&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=「+Software+%2B+AI+Engineer+」;" alt="Typing SVG" />
+    </a>
+</div
 
 
 <!-- Intro  -->
@@ -89,5 +104,3 @@ Inspired in alsiam's readme repository
 <br/>
 
 
-
-![LinceAzul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=LinceAzul&custom_title=LinceAzul's%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
