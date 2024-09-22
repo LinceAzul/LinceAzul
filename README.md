@@ -82,7 +82,7 @@ Inspired in alsiam's readme repository
    </a><br>
    
   <a href="" target="_blank">
-      <img src="https://img.shields.io/badge/AOC%20Basic%20Cybersecurity%20Knowledge%20and%20Experience-TryHackMe-%808080 alt="THM AOC Cert">
+      <img src="https://img.shields.io/badge/AOC%20Basic%20Cybersecurity%20Knowledge%20and%20Experience-TryHackMe-%2A2A2A2A alt="THM AOC Cert">
    </a><br>
 </p>
 
@@ -117,7 +117,8 @@ Key Attributes:
 
 <br/>
 
-<h2 align="center"> Some of my projects </h2>
+<h2 align="center"> Some of my projects</h2>
+
 ![LinceAzul's User Stats](https://github-readme-stats.vercel.app/api?username=LinceAzul&show_icons=true&theme=radical)
 
 [![Sesión de clientes](https://github-readme-stats.vercel.app/api/pin/?username=SII-Informatica-UMA&repo=ciklum-zumbtech&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SII-Informatica-UMA/ciklum-zumbtech)
