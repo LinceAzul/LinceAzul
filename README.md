@@ -6,10 +6,6 @@ Inspired in alsiam's readme repository
   <img align="right" src="https://komarev.com/ghpvc/?username=LinceAzul&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<div id="header" align="right">
-  <img src="https://komarev.com/ghpvc/?username=LinceAzul&style=for-the-badge&color=006400" alt=""/>
-</div>
-
 <div align="center">
  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=4000&pause=1000&color=F03F88&center=true&vCenter=true&random=false&width=435&lines=&gt+echo+-e+&quot;I+am+Ivan+Iroslavov&quot;" alt="Typing SVG" />
@@ -22,13 +18,11 @@ Inspired in alsiam's readme repository
  </a>
 </div>
 
-
 <!-- Intro  -->
 <h3 align="center">
  <samp>std::cout << "Welcome to my Profile!\n";
  </samp>
 </h3>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ivan-iroslavov-petkov-80b960236/" target="_blank">
@@ -38,7 +32,8 @@ Inspired in alsiam's readme repository
 
 <br/>
 
-<h3 align="center">🛠️ Technologies used</h3>
+<!-- Technologies used-->
+<h2 align="center">🛠️ Technologies used</h2>
 <div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -61,11 +56,8 @@ Inspired in alsiam's readme repository
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
-
-
-
 <!-- About Section -->
- # About me
+<h2 align="center">About me ☕</h2>
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
