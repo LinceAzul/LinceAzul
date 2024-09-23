@@ -105,12 +105,6 @@ Core Competencies:
 
 💻 Programming Languages: Strong command of C/C++, SQL, Haskell, TypeScript, Angular, SpringBoot, JPA, and hands-on experience with Python, ARM, and Bash scripting.
 
-Certifications:
-
-🛡️ TryHackMe: "Basic Cybersecurity Knowledge and Experience"
-📶 "Network Ethical Hacking with Kali"
-🤖 Oracle Cloud Infrastructure: Generative AI Professional
-
 Key Attributes:
 
 🚀 Driven & Adaptive | 💼 Problem-Solver | 🗣️ Collaborative & Communicative
